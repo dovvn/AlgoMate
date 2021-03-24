@@ -21,3 +21,4 @@
 |3/16(화)|14500|[테트로미노](https://www.acmicpc.net/problem/14500)|GoldⅤ|
 |3/18(목)|14503|[로봇청소기](https://www.acmicpc.net/problem/14503)|GoldⅤ|
 |3/23(화)|20058|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|GoldⅣ|
+|3/24(수)|20057|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|GoldⅣ|

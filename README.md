@@ -23,3 +23,4 @@
 |3/23(화)|20058|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|GoldⅣ|
 |3/24(수)|20057|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|GoldⅣ|
 |3/27(토)|20056|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|GoldⅤ|
+|3/29(월)|19238|[스타트택시](https://www.acmicpc.net/problem/19238)|GoldⅣ|

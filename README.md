@@ -10,7 +10,10 @@
 
 
 
-▶ 3/9~ing [삼성 SW 역량테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)🥇   
+▶ 3/9~ing
+> [백준: 삼성 SW 역량테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)🥇     
+> [프로그래머스: 카카오 코딩테스트 문제](https://programmers.co.kr/learn/challenges)🥇    
+
 | 요일 | 문제번호 | 제목 | 난이도 |
 |:---:|:---:|:---:|:---:|
 |3/9(화)|14502|[연구소](https://www.acmicpc.net/problem/14502)|GoldⅤ|
@@ -24,3 +27,5 @@
 |3/24(수)|20057|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|GoldⅣ|
 |3/27(토)|20056|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|GoldⅤ|
 |3/29(월)|19238|[스타트택시](https://www.acmicpc.net/problem/19238)|GoldⅣ|
+|3/30(화)|72410|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|Lv1|
+|3/30(화)|72411|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|Lv2|

@@ -1,5 +1,5 @@
 # 📚 AlgoMate-Study
-> 백준 알고리즘 스터디   
+> 알고리즘 스터디   
 > 스터디원: 김지형, 유진이, 정다운, 정혜지    
 
 1. 주 4회(화,수,목,토) 90분동안 문제1개 풀고 코드리뷰
@@ -11,8 +11,8 @@
 
 
 ▶ 3/9~ing
-> [백준: 삼성 SW 역량테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)🥇     
-> [프로그래머스: 카카오 코딩테스트 문제](https://programmers.co.kr/learn/challenges)🥇    
+> [[백준] 삼성 SW 역량테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)🥇     
+> [[프로그래머스] 카카오 코딩테스트 문제](https://programmers.co.kr/learn/challenges)🥇    
 
 | 요일 | 문제번호 | 제목 | 난이도 |
 |:---:|:---:|:---:|:---:|

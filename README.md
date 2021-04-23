@@ -32,3 +32,7 @@
 |3/31(수)|카카오|72412|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|Lv2|
 |4/1(목)|카카오|72413|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|Lv3|
 |4/15(목)|삼성|19237|[어른 상어](https://www.acmicpc.net/problem/19237)|GoldⅢ|
+|4/17(토)|삼성|19236|[청소년 상어](https://www.acmicpc.net/problem/19236)|GoldⅡ|
+|4/20(화)|카카오|72414|[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|Lv3|
+|4/21(수)|카카오|72415|[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)|Lv3|
+|4/23(금)|카카오|60057|[문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|Lv2|

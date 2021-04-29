@@ -32,7 +32,7 @@ public class Main {
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
 
-        map = new int[N+1][N+1];
+        map = new int[N+1][N+1]; 
         groomList = new ArrayList<>();
 
         for(int i=1; i<=N; i++){

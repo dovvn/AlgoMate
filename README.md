@@ -41,3 +41,4 @@
 |4/29(목)|삼성|21610|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|GoldⅤ|
 |5/4(화)|카카오|67257|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|Lv2|
 |5/6(목)|카카오|67256|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|Lv2|
+|6/4(금)|삼성|21611|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|Lv2|

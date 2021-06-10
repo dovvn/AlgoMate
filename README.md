@@ -46,3 +46,4 @@
 |6/4(금)|삼성|21611|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|GoldⅡ|
 |6/8(화)|삼성|17406|[배열돌리기4](https://www.acmicpc.net/problem/17406)|GoldⅣ|
 |6/9(수)|삼성|20055|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|SilverⅠ|
+|6/10(목)|삼성|17779|[게리맨더링2](https://www.acmicpc.net/problem/17779)|GoldⅣ|

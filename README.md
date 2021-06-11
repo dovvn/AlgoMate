@@ -12,7 +12,7 @@
 
 
 
-▶ 3/9~ing
+▶ 3/9~6/10
 > [[백준] 삼성 SW 역량테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)🥇     
 > [[프로그래머스] 카카오 코딩테스트 문제](https://programmers.co.kr/learn/challenges)🥇    
 
